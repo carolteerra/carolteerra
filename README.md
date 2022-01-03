@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **caroltv94@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/caroline-terra-vieira/](https://www.linkedin.com/in/caroline-terra-vieira/)
+- 📄 Know about my experiences [at LinkedIn](https://www.linkedin.com/in/caroline-terra-vieira/) and check my credentials [at Qwiklabs (Google Cloud Skills Boost)](https://www.cloudskillsboost.google/public_profiles/14577ac4-8316-4aa2-9158-a57e5a886802)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
