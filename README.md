@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carolteerra&label=Profile%20views&color=0e75b6&style=flat" alt="carolteerra" /> </p>
 
-- 🔭 I’m currently working on [WebApplication1](https://github.com/carolteerra/WebApplication1)
+- 🔭 I’m currently working at [MadeiraMadeira](https://github.com/madeiramadeirabr)
 
-- 🌱 I’m currently learning **React, C#, ASP.NET, Java, Google Cloud.**
+- 🌱 I’m currently learning **Python, Apache Airflow, AWS Google Cloud.**
 
 - 📫 How to reach me **caroltv94@gmail.com**
 
-- 📄 Know about my experiences [at LinkedIn](https://www.linkedin.com/in/caroline-terra-vieira/) and check my credentials [at Qwiklabs (Google Cloud Skills Boost)](https://www.cloudskillsboost.google/public_profiles/14577ac4-8316-4aa2-9158-a57e5a886802)
+- 📄 Know about my experiences [at LinkedIn](https://www.linkedin.com/in/caroline-terra-vieira/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
