@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [MadeiraMadeira](https://github.com/madeiramadeirabr)
 
-- 🌱 I’m currently learning **Python, Apache Airflow, AWS Google Cloud.**
+- 🌱 I’m currently learning **Python, Apache Airflow, AWS, Google Cloud.**
 
 - 📫 How to reach me **caroltv94@gmail.com**
 
