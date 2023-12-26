@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carolteerra&label=Profile%20views&color=0e75b6&style=flat" alt="carolteerra" /> </p>
 
-- 🔭 I’m currently working at Picpay as a Data Engineer.
+- 🔭 I’m currently working at [Picpay](https://github.com/PicPay) as a Data Engineer.
 
 - 🌱 I’m currently learning **Python, Apache Airflow, AWS, Google Cloud.**
 
